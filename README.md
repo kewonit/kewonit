@@ -4,7 +4,10 @@
 ### 🛠️ 
 
 - **edbn/ui** `// supercharged components`  
-  ↳ [Live Demo](https://ui.edbn.me/)
+  ↳ [ui.edbn.me](https://ui.edbn.me/)
 
 - **deetnuts.com** `// mildly important college data simplified`  
-  ↳ [Live Demo](https://deetnuts.com/)
+  ↳ [deetnuts.com](https://deetnuts.com/)
+
+- **spectrumpccoe** `// just another college event hosting webapp`  
+  ↳ [blog](https://kew.edbn.me/blog/02-building-a-service-to-manage-college-events-mostly-self-hosted/)
