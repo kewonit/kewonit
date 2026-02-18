@@ -6,8 +6,14 @@
 - **edbn/ui** `// supercharged components`  
   ↳ [ui.edbn.me](https://ui.edbn.me/)
 
+- **applyleft.com** `// beating ATS at its own game`  
+  ↳ [applyleft.com](https://applyleft.com/)
+
+- **aeris** `// a real-time 3D flight radar for the web`  
+  ↳ [aeris.edbn.me](http://aeris.edbn.me/)
+
 - **deetnuts.com** `// mildly important college data simplified`  
   ↳ [deetnuts.com](https://deetnuts.com/) | [btechtards.deetnuts.com](https://btechtards.deetnuts.com/)
 
 - **spectrumpccoe** `// just another college event hosting webapp`  
-  ↳ [blog](https://kew.edbn.me/blog/02-building-a-service-to-manage-college-events-mostly-self-hosted/)
+  ↳ [blog](https://kew.edbn.me/blog/building-event-service/)
